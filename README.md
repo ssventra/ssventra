@@ -6,8 +6,11 @@
 🌱 I’m currently learning react.js and node.js
 :hatching_chick: I’m looking for help with Tableau.
 :mailbox_with_mail: How to reach me: er.shravaniv@gmail.com
+
 :woman: Pronouns: She/Her
+
 :musical_score: trained in Indian classical music
+
 :swimmer: Love summers and swimming
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssventra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
