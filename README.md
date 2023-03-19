@@ -1,6 +1,6 @@
 
-### Hey, I'm Shravani Ventrapragada!
-:books: I am currently a student at Arizona State University
+### Hey, I'm Shravani Ventrapragada! \n 
+:books: I am currently a student at Arizona State University \n
 :school_satchel: Pursuing Masters in Artificial Intelligence and Robotics
 :mortar_board: Graduating in May 2023
 🌱 I’m currently learning react.js and node.js
