@@ -1,5 +1,4 @@
-
-### Hey, I'm Shravani Ventrapragada! 
+Hey, I'm Shravani Ventrapragada! 
 
 :books: I am currently a student at Arizona State University
 
