@@ -10,6 +10,6 @@
 - :musical_score: trained in Indian classical music
 - :swimmer: Love summers and swimming
 
-You can find my resume [here] (https://drive.google.com/file/d/17EOnvgUfdU1VzLKqimgvMmkBIExHVjue/view?usp=sharing)
+[You can find my resume here](https://drive.google.com/file/d/17EOnvgUfdU1VzLKqimgvMmkBIExHVjue/view?usp=sharing).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssventra&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
