@@ -1,8 +1,8 @@
 ### Hey, I'm Shravani Ventrapragada! 
 
-- :books: I am currently a student at Arizona State University
-- :school_satchel: Pursuing Masters in Artificial Intelligence and Robotics
-- :mortar_board: Graduating in May 2023
+- :books: I am currently working at Suitebriar. INC as a Google Cloud Engineer
+- :school_satchel: I have a Masters in Artificial Intelligence and Robotics
+- :mortar_board: Graduated in May 2023
 - 🌱 I’m currently learning react.js and node.js
 - :hatching_chick: I’m looking for help with Tableau.
 - :mailbox_with_mail: How to reach me: er.shravaniv@gmail.com
